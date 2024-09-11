@@ -13,6 +13,9 @@ div{
     justify-content: center;
     position: relative;
 }
+h1{
+    color: rgb(62, 61, 61);
+}
 button{
     padding: 0.7rem 1rem;
     border-radius: 0.6rem;
