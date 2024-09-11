@@ -14,7 +14,11 @@ div{
     position: relative;
 }
 h1{
+<<<<<<< HEAD
     color: rgb(62, 61, 61);
+=======
+    color: rgb(214, 112, 112);
+>>>>>>> feature
 }
 button{
     padding: 0.7rem 1rem;
