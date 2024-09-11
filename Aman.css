@@ -11,5 +11,18 @@ div{
     display: flex;
     align-items: center;
     justify-content: center;
+    position: relative;
 }
-
+button{
+    padding: 0.7rem 1rem;
+    border-radius: 0.6rem;
+    background: linear-gradient(150deg, rgb(206, 206, 155),rgb(134, 193, 134));
+    position: relative;
+    top: 4rem;
+    right: 10rem;
+}
+button a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
